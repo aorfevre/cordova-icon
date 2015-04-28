@@ -57,7 +57,7 @@ var getPlatforms = function (projectName) {
         icons : [
           { name : 'Square71x71Logo.scale-240.png',       size : 170 },
           { name : 'Square150x150Logo.scale-240.png',       size : 360 },
-          { name : ' Square150x150Logo.scale-100.png',       size : 150 },
+          { name : 'Square150x150Logo.scale-100.png',       size : 150 },
           { name : 'Square44x44Logo.scale-240.png',       size : 106 },
           { name : 'StoreLogo.scale-100.png', size : 50 },
           { name : 'StoreLogo.scale-240.png', size : 120 }
