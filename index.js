@@ -75,7 +75,7 @@ var getPlatforms = function (projectName) {
  */
 var settings = {};
 settings.CONFIG_FILE = 'config.xml';
-settings.ICON_FILE   = 'icon.png';
+settings.ICON_FILE   = 'resources/icon.png';
 
 /**
  * @var {Object} console utils

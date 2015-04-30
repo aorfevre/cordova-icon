@@ -56,7 +56,7 @@ On windows see http://www.imagemagick.org/script/binary-releases.php#windows
 
 ### Splash screens
 
-check out [cordova-splash](https://github.com/AlexDisler/cordova-splash)
+check out [cordova-splash](https://github.com/aorfevre/cordova-splash)
 
 ### License
 
